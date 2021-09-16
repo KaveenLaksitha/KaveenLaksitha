@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaveenLaksitha
-- 👯 I’m interested in Software Development
+- 👯 I’m interested in Software Development and Open Source
 - 🌱 I’m currently learning .NET and C#
 - 💞️ I’m looking to collaborate on any Software Dev Project
 - 📫 How to reach me : 
