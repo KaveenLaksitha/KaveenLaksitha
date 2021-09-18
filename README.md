@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KaveenLaksitha
+- 👋 Hi, I’m Kaveen Laksitha
 - 👯 I’m interested in Software Development and Open Source
-- 🌱 I’m currently learning .NET and C#
-- 💞️ I’m looking to collaborate on any Software Dev Project
+- 🌱 I’m currently learning React Native, .NET and C#
+- 💞️ I’m looking to collaborate on any Software Dev/ Open Source Project
 - 📫 How to reach me : 
       -⚡ Email     : kmklaksitha@gmail.com
       -⚡ LinkedIn  : https://www.linkedin.com/in/kaveen-laksitha/
