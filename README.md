@@ -2,7 +2,7 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=KaveenLaksitha" alt="kaveenLK"/></p>
 
 - 👯 I’m interested in Software Development and Open Source
-- 🌱 I’m currently learning React Native, .NET and C#- 
+- 🌱 I’m currently learning React Native, .NET and C#
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@KaveenLaksitha)
 - 💞️ I’m looking to collaborate on any Software Dev/ Open Source Project
 - 📫 How to reach me : 
