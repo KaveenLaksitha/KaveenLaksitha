@@ -1,15 +1,16 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Kaveen Laksitha</h1> 
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="27px" height="27px">, I'm Kaveen Laksitha</h1> 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=KaveenLaksitha" alt="kaveenLK"/></p>
 
 - 👯 I’m interested in Web/Mobile Develepment and Open Source
 - 🌱 I’m currently learning React Native, Flutter and Angular
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@KaveenLaksitha)
-- 💞️ I’m looking to collaborate on any Software Dev/ Open Source Project
+- 💞️ I’m looking to collaborate on any Web/Mobile Development and  Open Source Projects
 - 📫 How to reach me : 
-      -⚡ Email     : kmklaksitha@gmail.com
-      -⚡ LinkedIn  : https://www.linkedin.com/in/kaveen-laksitha/
-      -⚡ Portfolio  : https://kaveenlk.netlify.app
-
+<ul type="none">  
+ <li>⚡ Email     : kmklaksitha@gmail.com</li>  
+ <li>⚡ LinkedIn  : https://www.linkedin.com/in/kaveen-laksitha/</li>  
+ <li>⚡ Portfolio  : https://kaveenlk.netlify.app</li>    
+</ul>  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
