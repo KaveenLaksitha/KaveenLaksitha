@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on any Web/Mobile Development and  Open Source Projects
 - 📫 How to reach me : 
 <ul type="none">  
- <li>⚡ Email     : kmklaksitha@gmail.com</li>  
+ <li>⚡ Email     : <a href="mailto:kmklaksitha.com">kmklaksitha@gmail.com</a></li>  
  <li>⚡ LinkedIn  : https://www.linkedin.com/in/kaveen-laksitha/</li>  
  <li>⚡ Portfolio  : https://kaveenlk.netlify.app</li>    
 </ul>  
