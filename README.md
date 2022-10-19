@@ -1,8 +1,8 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="27px" height="27px">, I'm Kaveen Laksitha</h1> 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=KaveenLaksitha" alt="kaveenLK"/></p>
 
-- 👯 I’m interested in Web/Mobile Develepment and Open Source
-- 🌱 I’m currently learning React Native, Flutter and Angular
+- 👯 I’m interested in Web3, Web/Mobile Develepment and Open Source
+- 🌱 I’m currently learning Rust
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@KaveenLaksitha)
 - 💞️ I’m looking to collaborate on any Web/Mobile Development and  Open Source Projects
 - 📫 How to reach me : 
