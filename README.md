@@ -1,16 +1,18 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="27px" height="27px">, I'm Kaveen Laksitha</h1> 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=KaveenLaksitha" alt="kaveenLK"/></p>
+<p align="justify">I'm a passionate developer who's interested in Web3, Web/Mobile Development, and Open Source. I'm currently on a journey of continuous learning, and I love exploring new technologies and tools.</p>
 
 - 👯 I’m interested in Web3, Web/Mobile Develepment and Open Source
-- 🌱 I’m currently learning Rust
+- 🌱 Currently, I'm learning everything that I find interesting, and I'm always eager to expand my skill set.
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@KaveenLaksitha)
-- 💞️ I’m looking to collaborate on any Web/Mobile Development and  Open Source Projects
-- 📫 How to reach me : 
+- 💞️ I'm always looking for opportunities to collaborate on exciting web/mobile development and open source projects. If you have an idea or a project that you'd like to work on together, feel free to reach out to me.
+- 📫 You can get in touch with me via email or social media. Here's how: : 
 <ul type="none">  
  <li>⚡ Email     : <a href="mailto:kmklaksitha.com">kmklaksitha@gmail.com</a></li>  
  <li>⚡ LinkedIn  : https://www.linkedin.com/in/kaveen-laksitha/</li>  
  <li>⚡ Portfolio  : https://kaveenlk.netlify.app</li>    
 </ul>  
+Thanks for stopping by!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
